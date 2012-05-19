@@ -1,4 +1,7 @@
+#include <stdio.h>
+
 main()
 {
-  exit(0)
+  printf("Hello world !\n");
+  exit(0);
 }
